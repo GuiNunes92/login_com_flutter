@@ -1,16 +1,5 @@
-# prova2
+# Projeto da Prova 2
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tela de login criada com Flutter.
+Este projeto foi apresentado no 5º semestre do curso de Análise e Desenvolvimento de Sistemas da Fatec Campinas.
+Todo o desenvolvimento foi baseado em vídeos do YouTube e nos conhecimentos adquiridos durante as aulas da Professora Janaine Arantes.
